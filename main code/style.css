@@ -1,0 +1,9 @@
+.bacgkround-box
+position: absolute;
+width: 1920px;
+height: 1080px;
+left: 0px;
+top: 0px;
+
+.background-linear-gradient
+linear-gradient(114.87deg, #7B81FF 0%, rgba(255, 84, 217, 0) 114.72%);
